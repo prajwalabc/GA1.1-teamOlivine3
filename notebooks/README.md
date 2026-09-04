@@ -15,3 +15,6 @@ Sum list function:
 This function adds elements in a list or tuple using the add function and returns the result.
 Square function
 - This function squares the output of the multiply function
+
+-This first assignement was nice, not very tricky
+'
