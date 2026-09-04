@@ -1,0 +1,1 @@
+multiply(a,b) multiplies two variables a and b and returns the output.
