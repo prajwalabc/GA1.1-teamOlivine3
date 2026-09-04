@@ -6,3 +6,6 @@ This function will subtract number b from number a. It will also check that both
 Add Function
 - The add function adds up numbers. 
 - There are two variables: a and b. Each variable should be a real number. 
+
+Sum list function:
+This function adds elements in a list or tuple using the add function and returns the result.
